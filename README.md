@@ -36,5 +36,6 @@ As of Oct 15, 2019, I have made 26 Issue reports, variing from questions, conver
 * Valet Plus 
     - Apr 24, 18 - [#153](https://github.com/weprovide/valet-plus/issues/153)
     - Dec 4, 18 - [#270](https://github.com/weprovide/valet-plus/issues/270)
+- WPGulp (Oct 19, 18) [#127](https://github.com/ahmadawais/WPGulp/issues/127#issuecomment-537019364)
 
 
