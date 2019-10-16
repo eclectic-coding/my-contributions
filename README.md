@@ -14,6 +14,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, variing from questions, conver
 - Gatsby Starter Contentful i18n (Mar 19, 19) [#12](gatsby-starter-contentful-i18n)
 - Gatsby Starter Hero Blog (Feb 21, 19) [#85](https://github.com/greglobinski/gatsby-starter-hero-blog/issues/85)
 - Gatsby Starter Tyra (Aug 7, 19) [#12](gatsby-starter-tyra)
+- Gitignore (Aug 23, 19) [#220](https://github.com/toptal/gitignore/pull/220#event-2579024144)
 - Gulp Boilerplate 
     * Sep 4, 19 [#81](https://github.com/cferdinandi/gulp-boilerplate/pull/81)
     * Oct 15, 19 [#85](https://github.com/cferdinandi/gulp-boilerplate/issues/85)
