@@ -5,7 +5,7 @@ Welcome to my corner of GitHub. I am cataloging my Open Source Contributions in 
 I have tried to differentiate my activity at each repo but it is difficult to go back and categorize, but going forward I will. 
 
 ## Gatsby
-As of Oct 15, 2019, I have made 26 Issue reports, variing from questions, conversation, and Pull request for Documentation and or code. You can read a compiled list [here](https://github.com/gatsbyjs/gatsby/issues?utf8=%E2%9C%93&q=author%3Aeclectic-coding+).
+As of Oct 15, 2019, I have made 26 Issue reports, varying from questions, conversation, and Pull request for Documentation and or code. You can read a compiled list [here](https://github.com/gatsbyjs/gatsby/issues?utf8=%E2%9C%93&q=author%3Aeclectic-coding+).
 
 ## Code Only  
 - Blog (Mar 14, 19) [#8](https://github.com/kyleshevlin/blog/pull/8)
