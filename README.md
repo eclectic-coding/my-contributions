@@ -36,6 +36,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, variing from questions, conver
 - Bootstrap (May 27, 19) [#28822](https://github.com/twbs/bootstrap/issues?utf8=%E2%9C%93&q=author%3Aeclectic-coding+)
 - Gatsby Pantry (Mar 4, 19) [#10](https://github.com/rmcfadzean/gatsby-pantry/issues/10)
 - HTML5 Bolierplate (Aug 20, 19) [#2147](https://github.com/h5bp/html5-boilerplate/issues/2147#issuecomment-532926274)
+- Mailspring (Oct 1, 19) [#526](https://github.com/Foundry376/Mailspring/issues/526#issuecomment-538753443)
 * Valet Plus 
     - Apr 24, 18 - [#153](https://github.com/weprovide/valet-plus/issues/153)
     - Dec 4, 18 - [#270](https://github.com/weprovide/valet-plus/issues/270)
