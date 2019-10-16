@@ -9,6 +9,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, variing from questions, conver
 
 ## Code Only  
 - Blog (Mar 14, 19) [#8](https://github.com/kyleshevlin/blog/pull/8)
+- Crayon Syntax Highlighter (Apr 14, 18) [434](https://github.com/aramk/crayon-syntax-highlighter/pull/434#issuecomment-529083673)
 - Gatsby Blog Author (Apr 26, 19) [#1](https://github.com/derricktsmith/gatsby-blog-author/pull/1)
 - Gatsby Starter Bootstrap (May 13, 19) [#388](https://github.com/jaxx2104/gatsby-starter-bootstrap/pull/388)
 - Gatsby Starter Contentful i18n (Mar 19, 19) [#12](gatsby-starter-contentful-i18n)
@@ -34,6 +35,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, variing from questions, conver
 ## Conversation Only
 - Bootstrap (May 27, 19) [#28822](https://github.com/twbs/bootstrap/issues?utf8=%E2%9C%93&q=author%3Aeclectic-coding+)
 - Gatsby Pantry (Mar 4, 19) [#10](https://github.com/rmcfadzean/gatsby-pantry/issues/10)
+- HTML5 Bolierplate (Aug 20, 19) [#2147](https://github.com/h5bp/html5-boilerplate/issues/2147#issuecomment-532926274)
 * Valet Plus 
     - Apr 24, 18 - [#153](https://github.com/weprovide/valet-plus/issues/153)
     - Dec 4, 18 - [#270](https://github.com/weprovide/valet-plus/issues/270)
