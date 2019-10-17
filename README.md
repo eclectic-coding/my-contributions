@@ -33,7 +33,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, varying from questions, conver
 - Reactstrap (May 30, 19) [#1515](https://github.com/reactstrap/reactstrap/issues/1515)
 - WP Local Docker v2 (Jan 13, 19) [#10](https://github.com/10up/wp-local-docker-v2/issues/10)
 
-## Conversation Only
+## Community Support
 - Bootstrap (May 27, 19) [#28822](https://github.com/twbs/bootstrap/issues?utf8=%E2%9C%93&q=author%3Aeclectic-coding+)
 - Gatsby Pantry (Mar 4, 19) [#10](https://github.com/rmcfadzean/gatsby-pantry/issues/10)
 - HTML5 Bolierplate (Aug 20, 19) [#2147](https://github.com/h5bp/html5-boilerplate/issues/2147#issuecomment-532926274)
