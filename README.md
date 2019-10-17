@@ -1,6 +1,6 @@
 # My Contributions
 
-Welcome to my corner of GitHub. I am cataloging my Open Source Contributions in this repository. This contributions do not include my own project but instead list all of the Pull Request I have contributed to other projects. 
+Welcome to my corner of GitHub. I am cataloging my Open Source Contributions in this repository. These contributions do not include my own project but instead list all of the Pull Request I have contributed to other projects. 
 
 I have tried to differentiate my activity at each repo but it is difficult to go back and categorize, but going forward I will. 
 
@@ -19,6 +19,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, varying from questions, conver
 - Gulp Boilerplate 
     * Sep 4, 19 [#81](https://github.com/cferdinandi/gulp-boilerplate/pull/81)
     * Oct 15, 19 [#85](https://github.com/cferdinandi/gulp-boilerplate/issues/85)
+- Prometheus (Apr 3, 18) [#3](https://github.com/christophherr/prometheus/issues/3) 
 - React Social Icons (Jul 19, 19) [#54](https://github.com/jaketrent/react-social-icons/pull/54)
 
 ## Documentation Only 
