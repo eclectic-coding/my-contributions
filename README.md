@@ -19,7 +19,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, varying from questions, conver
 - Gulp Boilerplate 
     * Sep 4, 19 [#81](https://github.com/cferdinandi/gulp-boilerplate/pull/81)
     * Oct 15, 19 [#85](https://github.com/cferdinandi/gulp-boilerplate/issues/85)
-- Learn-co (Oct 23, 19) [#1](https://github.com/eclectic-coding/sinatra-user-auth-online-web-ft-090919/pull/1)
+- Learn-co (Oct 23, 19) [#4](https://github.com/learn-co-students/sinatra-user-auth-online-web-ft-090919/pull/4)
 - Prometheus (Apr 3, 18) [#3](https://github.com/christophherr/prometheus/issues/3) 
 - React Social Icons (Jul 19, 19) [#54](https://github.com/jaketrent/react-social-icons/pull/54)
 
