@@ -33,6 +33,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, varying from questions, conver
 - React-bootstrap (May24, 19) [#3806](https://github.com/react-bootstrap/react-bootstrap/pull/3806)
 - Reactstrap (May 30, 19) [#1515](https://github.com/reactstrap/reactstrap/issues/1515)
 - WP Local Docker v2 (Jan 13, 19) [#10](https://github.com/10up/wp-local-docker-v2/issues/10)
+- Learn-co-curriculm (Dec 11, 19) [#51](https://github.com/learn-co-curriculum/yield-and-blocks/pull/51#event-2875592086)
 
 ## Community Support
 - Bootstrap (May 27, 19) [#28822](https://github.com/twbs/bootstrap/issues?utf8=%E2%9C%93&q=author%3Aeclectic-coding+)
