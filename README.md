@@ -10,6 +10,7 @@ As of Oct 15, 2019, I have made 26 Issue reports, varying from questions, conver
 ## Code Only  
 - Blog (Mar 14, 19) [#8](https://github.com/kyleshevlin/blog/pull/8)
 - Crayon Syntax Highlighter (Apr 14, 18) [434](https://github.com/aramk/crayon-syntax-highlighter/pull/434#issuecomment-529083673)
+- Developer Portfolios Emma Wedekind's community portfolio repo. I am an active maintainer Of this [repo](https://github.com/emmawedekind/developer-portfolios/commits?author=eclectic-coding)
 - Gatsby Blog Author (Apr 26, 19) [#1](https://github.com/derricktsmith/gatsby-blog-author/pull/1)
 - Gatsby Starter Bootstrap (May 13, 19) [#388](https://github.com/jaxx2104/gatsby-starter-bootstrap/pull/388)
 - Gatsby Starter Contentful i18n (Mar 19, 19) [#12](gatsby-starter-contentful-i18n)
